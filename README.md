@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm so glad to see all of you.
+You can call me Hu.
+I'm from Fuzhou.
+I'm fond of music and games.
+I really hope we can make friends.
 <!--
 **candy-add-coffee/candy-add-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
